@@ -1,5 +1,7 @@
+import CartaoPerfil from "./CartaoPerfil.jsx";
+
 export default function App() {
     return (
-        <div>Hello World</div>
+        <CartaoPerfil/>
     )
 }

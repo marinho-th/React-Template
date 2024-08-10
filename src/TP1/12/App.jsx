@@ -1,5 +1,6 @@
+import ListaTarefas from "./ListaTarefas"
 export default function App() {
     return (
-        <div>Hello World</div>
+        <ListaTarefas/>
     )
 }

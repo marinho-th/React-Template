@@ -1,5 +1,11 @@
+import ListaProdutos from "./ListaProdutos"
+import "./App.css"
 export default function App() {
     return (
-        <div>Hello World</div>
+        <>
+            <h1>Bem-vindo ao meu e-commerce!</h1>
+            <ListaProdutos/>
+        </>
+        
     )
 }

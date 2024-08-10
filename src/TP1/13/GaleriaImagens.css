@@ -1,0 +1,12 @@
+.containerImagens{
+    margin-top: 20vh;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    gap: 30px;
+}
+.containerImagens div p{
+   
+    text-align: center;
+    
+}

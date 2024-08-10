@@ -1,0 +1,23 @@
+.card{
+    border: 1px solid #ae0b0b;
+    padding: 14px;
+    margin: 14px;
+    text-align: center;
+
+  }
+  
+  .card img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .card h2 {
+    font-size: 1.5em;
+    margin: 8px 0;
+  }
+  
+  .card p {
+    margin: 8px 0;
+  }
+  
+ 
